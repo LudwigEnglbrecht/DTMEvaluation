@@ -1,0 +1,33 @@
+<?xml version="1.0" ?><PurchaseOrder OrderDate="1999-10-20" PurchaseOrderNumber="99503">  
+  <Address Type="Shipping"><CustomerID>CS91T1EK6ERY2LLIADI4B87GNM3TO7G5MSNJYA9RZWA5NP4K8P8H369UIEHOEPAP7IZJZK5IFC6BTX7MOC7XI6QUVARMVYWZPVURRJN3LT0OXY8F8S3Y3DVK1U5C6E83</CustomerID>  
+    <Name>Ellen Adams</Name>  
+    <Street>123 Maple Street</Street>  
+    <City>Mill Valley</City>  
+    <State>CA</State>  
+    <Zip>10999</Zip>  
+    <Country>USA</Country>  
+  </Address>  
+  <Address Type="Billing">  
+    <Name>Tai Yee</Name>  
+    <Street>8 Oak Avenue</Street>  
+    <City>Old Town</City>  
+    <State>PA</State>  
+    <Zip>95819</Zip>  
+    <Country>USA</Country>  
+  </Address>  
+  <DeliveryNotes>Please leave packages in shed by driveway.</DeliveryNotes>  
+  <Items>  
+    <Item PartNumber="872-AA">  
+      <ProductName>Lawnmower</ProductName>  
+      <Quantity>1</Quantity>  
+      <USPrice>148.95</USPrice>  
+      <Comment>Confirm this is electric</Comment>  
+    </Item>  
+    <Item PartNumber="926-AA">  
+      <ProductName>Baby Monitor</ProductName>  
+      <Quantity>2</Quantity>  
+      <USPrice>39.98</USPrice>  
+      <ShipDate>1999-05-21</ShipDate>  
+    </Item>  
+  </Items>  
+</PurchaseOrder>
