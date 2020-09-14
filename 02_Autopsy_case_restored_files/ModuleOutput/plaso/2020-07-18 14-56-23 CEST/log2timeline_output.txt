@@ -1,0 +1,11 @@
+
+Source path	: O:\disk_image_eval2.vhd
+Source type	: storage media image
+Processing time	: 00:00:00
+
+Processing started.
+Worker_00 (PID: 35848) - events produced: 9 - file: TSK:/$FAT1 - running: True
+Worker_00 (PID: 35848) - events produced: 9 - file: TSK:/$FAT1 - running: True
+Worker_01 (PID: 23244) - events produced: 6 - file: TSK:/System Volume Information/WPSettings.dat - running: True
+Processing completed.
+

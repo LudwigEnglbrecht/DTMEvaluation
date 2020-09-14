@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>5.0</SchemaVersion>
+  <CreatedDate>2020/07/18 14:06:42 (CEST)</CreatedDate>
+  <ModifiedDate>2020/07/18 14:06:47 (CEST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.15.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.15.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>eval2_20200718_140642</Name>
+    <DisplayName>eval2</DisplayName>
+    <Number>eval2</Number>
+    <Examiner>lu</Examiner>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <OriginalCase/>
+</AutopsyCase>
